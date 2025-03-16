@@ -32,7 +32,7 @@ sudo hciconfig hci0 up
 
 Download the script from GitHub:
 
-git clone https://github.com/yourusername/BLE-Jammer.git
+git clone https://github.com/ekomsSavior/Ble_Jam
 cd BLE-Jammer
 
 4️⃣ Run the Script

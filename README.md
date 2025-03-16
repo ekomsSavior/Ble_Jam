@@ -36,7 +36,7 @@ git clone https://github.com/ekomsSavior/Ble_Jam
 
 cd BLE-Jammer
 
-4️⃣ Run the Script
+4️⃣ Run the Script:
 
 Execute the Ble_jam.py script to scan for BLE devices:
 
